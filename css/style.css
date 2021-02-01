@@ -1,0 +1,15 @@
+/*ipad air 2: 768 x 1024 px*/
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+#wrapper {
+	max-width: 768px;
+	border: 1px solid #dddddd;
+	margin: auto;
+	background-image: url('../image/background.png');
+	background-size: contain;
+	height: 1000px
+}
